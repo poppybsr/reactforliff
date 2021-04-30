@@ -8,10 +8,11 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          Test LIFF for Line Bot
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://developers.line.biz/en/"
           target="_blank"
           rel="noopener noreferrer"
         >
